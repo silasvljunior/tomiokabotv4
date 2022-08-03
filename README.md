@@ -92,6 +92,4 @@ Para desativar o bot em PM2
 ## Agradecimentos especiais para
 
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
-- [MhankBarBar](https://github.com/mhankbarbar)
-- [Causs](https://github.com/Admcauss-alt)
 - [THOTH](https://github.com/thothdeus)
